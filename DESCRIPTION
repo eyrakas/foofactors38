@@ -1,0 +1,16 @@
+Package: foofactors
+Title: Creating foofactors package
+Version: 1.0
+Authors@R:
+    person("Sakariya", "Aynashe", email = "eyrakas@gmail.com", role = c("aut", "cre"))
+Description: Foofactors concatenates two strings into a single one.
+License: MIT LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat (>= 2.1.0)
+Imports: 
+    forcats
+URL: https://github.com/eyrakas/foofactors
+BugReports: https://github.com/eyrakas/foofactors/issues
